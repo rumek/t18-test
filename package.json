@@ -18,7 +18,11 @@
     "@angular/platform-browser": "~13.0.0",
     "@angular/platform-browser-dynamic": "~13.0.0",
     "@angular/router": "~13.0.0",
+    "@ngx-translate/core": "^14.0.0",
+    "@ngx-translate/http-loader": "^7.0.0",
+    "c": "^1.1.1",
     "rxjs": "~7.4.0",
+    "tl8": "0.0.10",
     "tslib": "^2.3.0",
     "zone.js": "~0.11.4"
   },

@@ -1,0 +1,18 @@
+{
+    "NAVBAR": {
+        "ABOUT": "About",
+        "HOME": "Home",
+        "SELECT": "Change language"
+    },
+    "HOME": {
+        "TITLE": "Hello Angular with ngx-translate!",
+        "DETAILS": "Details"
+    },
+    "ABOUT": {
+        "CONTACT": {
+            "IF_U_HAVE_ANY_QUESTIONS": "If you have any question, please contact with us.",
+            "EMAIL": "e-mail address",
+            "PHONE_NUMBER": "phone number"
+        }
+    }
+}
